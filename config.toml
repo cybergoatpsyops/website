@@ -1,0 +1,59 @@
+## Basic Configuration
+baseurl = "http://cybergoatpsyops.com/"
+languageCode = "en"
+relativeurls = true
+title = "A Cyber Goat"
+
+
+theme = "hyde-hyde"
+
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
+
+## Site Settings
+[params]
+    author = "CyberGoatPsyOps"
+    title = "A Cyber Goat"
+    description = "Threat Hunting Until the Goats Come Home"
+    authorimage = "/img/cybergoat.png"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+    # highlightjsstyle = "github"
+    # please choose either GraphComment or Disqus
+    # GraphCommentId = "your-graph-comment-id"
+
+## Social Accounts
+[params.social]
+    github = "cybergoatpsyops"
+    linkedin = "leo-b-956578173"
+    twitter = "cybergoatpsyops"
+    email = "leo@leobastidas.com"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
+[[menu.main]]
+    name = "YouTube"
+    identifier = "YouTube"
+    weight = 300
+    url = "https://www.youtube.com/channel/UCKB7At-5ATZX3vA61dzAAyA/"
+[[menu.main]]
+    name = "Speaking Engagements"
+    identifier = "Speaking Engagements"
+    weight = 300
+    url = "/talks/"
+[[menu.main]]
+    name = "Upcoming Events"
+    identifier = "Upcoming Events"
+    weight = 300
+    url = "/events/"

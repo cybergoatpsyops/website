@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on A Cyber Goat</title>
+    <link>http://cybergoatpsyops.com/posts/</link>
+    <description>Recent content in Posts on A Cyber Goat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://cybergoatpsyops.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TheHive Webhook for Slack</title>
+      <link>http://cybergoatpsyops.com/posts/thehive_webhook/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cybergoatpsyops.com/posts/thehive_webhook/</guid>
+      <description>Created TheHive webhook for integration with Slack. You can grab the code HERE
+ </description>
+    </item>
+    
+    <item>
+      <title>US-CERT TA18-106A for the Rest of Us!</title>
+      <link>http://cybergoatpsyops.com/posts/us-cert_ta18-106a/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cybergoatpsyops.com/posts/us-cert_ta18-106a/</guid>
+      <description>As a guest blogger, I wrote an analysis on the newest US-CERT alert. Check it out HERE</description>
+    </item>
+    
+    <item>
+      <title>Standup a Threat Hunting Platform While You&#39;re Broke</title>
+      <link>http://cybergoatpsyops.com/posts/how-to-threat-hunt/</link>
+      <pubDate>Sun, 08 Apr 2018 23:23:35 -0500</pubDate>
+      
+      <guid>http://cybergoatpsyops.com/posts/how-to-threat-hunt/</guid>
+      <description>Here are is my slide deck on my talk on &amp;ldquo;How to Threat Hunt When You&amp;rsquo;re Broke!(Updated June 2019)&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>

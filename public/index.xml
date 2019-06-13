@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Cyber Goat</title>
+    <link>http://cybergoatpsyops.com/</link>
+    <description>Recent content on A Cyber Goat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://cybergoatpsyops.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TheHive Webhook for Slack</title>
+      <link>http://cybergoatpsyops.com/posts/thehive_webhook/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cybergoatpsyops.com/posts/thehive_webhook/</guid>
+      <description>Created TheHive webhook for integration with Slack. You can grab the code HERE
+ </description>
+    </item>
+    
+    <item>
+      <title>US-CERT TA18-106A for the Rest of Us!</title>
+      <link>http://cybergoatpsyops.com/posts/us-cert_ta18-106a/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cybergoatpsyops.com/posts/us-cert_ta18-106a/</guid>
+      <description>As a guest blogger, I wrote an analysis on the newest US-CERT alert. Check it out HERE</description>
+    </item>
+    
+    <item>
+      <title>Standup a Threat Hunting Platform While You&#39;re Broke</title>
+      <link>http://cybergoatpsyops.com/posts/how-to-threat-hunt/</link>
+      <pubDate>Sun, 08 Apr 2018 23:23:35 -0500</pubDate>
+      
+      <guid>http://cybergoatpsyops.com/posts/how-to-threat-hunt/</guid>
+      <description>Here are is my slide deck on my talk on &amp;ldquo;How to Threat Hunt When You&amp;rsquo;re Broke!(Updated June 2019)&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>About cyberGoatPsyOps</title>
+      <link>http://cybergoatpsyops.com/about/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cybergoatpsyops.com/about/</guid>
+      <description>I started my career as a troubled teen, it&amp;rsquo;s how I ended up working at the local repair shop, fixing PCs. I then joined the military after high school as there were no other options at the time. That is where I started at the Military Police as a System Administrator, then quickly pivoted into Incident response. Later in my military career, I pivoted again, but this time into special operation as a communications sergeant.</description>
+    </item>
+    
+    <item>
+      <title>Speaking Engagements</title>
+      <link>http://cybergoatpsyops.com/talks/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cybergoatpsyops.com/talks/</guid>
+      <description>Previous speaking engagements:
+ ConnectingVETS.com - Information Security Scholarship Recipient
+ Morning Briefing Radio Show - Veteran focus information security talk
+ DefCon 214 - &amp;ldquo;How to Threat Hunt While You&amp;rsquo;re Broke!&amp;rdquo;
+ DHA - &amp;ldquo;Stand up A Threat Hunting Platform while you&amp;rsquo;re broke&amp;rdquo;
+ ISSW - &amp;ldquo;Stand up a Threat Hunting Platform while you&amp;rsquo;re broke&amp;rdquo;
+ DefCon 214 - &amp;ldquo;What is OpenSOC?&amp;rdquo;
+ BrrCon &amp;ldquo;Host-Hunting on a Budget&amp;rdquo;
+  </description>
+    </item>
+    
+    <item>
+      <title>Upcoming Events</title>
+      <link>http://cybergoatpsyops.com/events/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cybergoatpsyops.com/events/</guid>
+      <description>Upcoming Events:
+ LayerOne - May 25th - 27th
+ BSIDES SATX - June 16th
+ Deep East Texas Security - June 28th
+ DefCon 26 - August 9th - 12th
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://cybergoatpsyops.com/posts/thehive_webhook/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cybergoatpsyops.com/posts/us-cert_ta18-106a/</loc>
+    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cybergoatpsyops.com/posts/how-to-threat-hunt/</loc>
+    <lastmod>2018-04-08T23:23:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cybergoatpsyops.com/about/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cybergoatpsyops.com/talks/</loc>
+    <lastmod>2018-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cybergoatpsyops.com/events/</loc>
+    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cybergoatpsyops.com/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cybergoatpsyops.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cybergoatpsyops.com/posts/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cybergoatpsyops.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
